@@ -4,6 +4,8 @@
 
 [![Coverage](https://github.com/laraherriott/CI-course/actions/workflows/coverage.yml/badge.svg)](https://github.com/laraherriott/CI-course/actions/workflows/coverage.yml)
 
+[![BCH compliance](https://bettercodehub.com/edge/badge/laraherriott/CI-course?branch=main)](https://bettercodehub.com/)
+
 This project contains a small Python project. We are going to use free cloud services to automate:
 
 - unit testing on multiple Python versions
