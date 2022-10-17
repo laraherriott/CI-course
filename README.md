@@ -2,6 +2,8 @@
 
 [![Run unit tests](https://github.com/laraherriott/CI-course/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/laraherriott/CI-course/actions/workflows/unit-tests.yml)
 
+[![Coverage](https://github.com/laraherriott/CI-course/actions/workflows/coverage.yml/badge.svg)](https://github.com/laraherriott/CI-course/actions/workflows/coverage.yml)
+
 This project contains a small Python project. We are going to use free cloud services to automate:
 
 - unit testing on multiple Python versions
